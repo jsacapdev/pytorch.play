@@ -30,6 +30,8 @@ Once Anaconda was installed, the following random commands were helpful.
 
 `activate bio-env`
 
+`conda activate bio-env`
+
 `pip install jupyter`
 
 `conda install pytorch torchvision torchaudio cpuonly -c pytorch`
