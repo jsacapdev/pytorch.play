@@ -16,7 +16,7 @@ You can set up the environment you need using Python, Virtual Environments and p
 
 `pip install torch torchvision torchaudio`
 
-## Anaconda
+## Anaconda 
 
 Anaconda seems to support the whole thing, its like a sandbox where the packages can be installed, andyou can also configure a completely independently version of Python. Kool.
 
@@ -50,6 +50,10 @@ Then just call it on `pwsh` line using the command:
 `condap`
 
 Now you can fire up a terminal and manage the environment using the command line or VS Code.
+
+To fire up the navigator on linux use:
+
+`anaconda-navigator`
 
 ## References
 
